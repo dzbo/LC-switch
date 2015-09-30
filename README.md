@@ -1,7 +1,9 @@
+Change: Added bower support.
+
 LC Switch
 ==============
 
-Superlight jQuery plugin improving forms look and functionality. 
+Superlight jQuery plugin improving forms look and functionality.
 
 Give a modern and flat look to your applications and take advantage of events and public functions. Everything in **just 5KB**, all inclusive!
 
@@ -14,4 +16,4 @@ http://www.lcweb.it/lc-switch
 
 * * *
 
-Copyright (c) Luca Montanari 
+Copyright (c) Luca Montanari
