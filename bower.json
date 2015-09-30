@@ -1,0 +1,28 @@
+{
+  "name": "LC-switch",
+  "version": "0.0.0",
+  "homepage": "http://www.lcweb.it/lc-switch",
+  "authors": [
+    "Luca Montanari"
+  ],
+  "description": "Superlight jQuery plugin improving forms look and functionality",
+  "main": "lc_switch.js",
+  "moduleType": [],
+  "keywords": [
+    "switch",
+    "toggle",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
